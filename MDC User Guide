@@ -1,25 +1,32 @@
-MDC User Guide
+Example 1 - GSE80060 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE80060]
 
-Example 1
-Folder “example 1” contains the processed and ready to be used data file and correlation file. They correspond to the Gene Expression Omnibus (GEO) Series Matrix File
-for the GSE80060 series. GSE80060 provides gene expression data of whole blood of systemic juvenile idiopathic arthritis (SJIA) patients treated with canakinumab.
+Folder “example 1” contains the processed and ready to be used correlation file. The data file could not be uploaded here and needs to be downloaded from the source and
+proccesed as explained in the "Parts of the MDC Algorithm" session. The files correspond to the Gene Expression Omnibus (GEO) Series Matrix File for the GSE80060 series.
+GSE80060 provides gene expression data of whole blood of systemic juvenile idiopathic arthritis (SJIA) patients treated with canakinumab.
 
 File “example 1.py“ contains the code for using MDC with its default parameters on that particular dataset. The user has to specify the exact path
 of the downloaded files in the code.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Example 1
+Example 2 - GSE97075 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97075]
+
 Folder “example 2” contains the processed and ready to be used data file and correlation file. They correspond to the Gene Expression Omnibus (GEO) Series Matrix File
-for the GSE97075 series. GSE97075 provides gene expression data of hyperimmunoglobulin D syndrome (HIDS) patients with periodic fever syndrome patients treated with canakinumab.
+for the GSE97075 series. GSE97075 provides gene expression data of hyperimmunoglobulin D syndrome (HIDS) patients with periodic fever syndrome patients treated with
+canakinumab.
 
 File “example 2.py“ contains the code for using MDC with its default parameters on that particular dataset. The user has to specify the exact path
 of the downloaded files in the code.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Example 1
+Example 3 - GSE9863 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9863]
+
 Folder “example 3” contains the processed and ready to be used data file and correlation file. They correspond to the Gene Expression Omnibus (GEO) Series Matrix File
-for the GSE80060 series. GSE9863 provides gene expression data of Kawasaki patients, and it contains three different time points corresponding to different stages of the disease.
+for the GSE80060 series. GSE9863 provides gene expression data of Kawasaki patients, and it contains three different time points corresponding to different stages of the
+disease.
 
 File “example 3.py“ contains the code for using MDC with its default parameters on that particular dataset. The user has to specify the exact path
 of the downloaded files in the code.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
